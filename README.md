@@ -24,18 +24,6 @@ Desarrollador de Software enfocado en el desarrollo móvil y arquitecturas de si
 
 ---
 
-### 📌 Repositorios Destacados
-
-<p align="left">
-  <a href="https://github.com/jossetbarrera65-cmyk/liquid-value-revamp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jossetbarrera65-cmyk&repo=liquid-value-revamp&theme=charcoal&hide_border=true" alt="liquid-value-revamp" width="48%" />
-  </a>
-  <a href="https://github.com/jossetbarrera65-cmyk/seguridad-y-rastreo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jossetbarrera65-cmyk&repo=seguridad-y-rastreo&theme=charcoal&hide_border=true" alt="seguridad-y-rastreo" width="48%" />
-  </a>
-</p>
-
----
 ### 📊 Actividad en GitHub
 
 <p align="left">
